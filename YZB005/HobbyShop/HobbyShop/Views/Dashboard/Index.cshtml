@@ -1,0 +1,19 @@
+﻿@model List<HobbyShop.Models.Product>
+
+<h2>Hoşgeldin @Context.Session.GetString("UserEmail") 👋</h2>
+
+<h3>Popüler Ürünler</h3>
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+
+    @foreach (var item in Model)
+    {
+        <a href="/Products/Details/@item.ProductID" style="text-decoration:none; color:black;">
+            <div class="card">
+                <div class="card-title">@item.ProductName</div>
+                <div class="card-price">@item.Price ₺</div>
+            </div>
+        </a>
+    }
+
+</div>

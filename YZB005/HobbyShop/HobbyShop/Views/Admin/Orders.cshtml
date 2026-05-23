@@ -1,0 +1,45 @@
+﻿@model List<HobbyShop.Models.Order>
+
+<h2>Sipariş Yönetimi 📊</h2>
+
+<div class="page-box">
+
+    <table class="custom-table">
+
+        <tr>
+            <th>ID</th>
+            <th>Kullanıcı</th>
+            <th>Tarih</th>
+            <th>Toplam</th>
+            <th>Durum</th>
+            <th>İşlem</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>#@item.OrderID</td>
+                <td>@item.UserID</td>
+                <td>@item.OrderDate</td>
+                <td>@item.TotalPrice ₺</td>
+                <td>
+                    <span style="
+                            background:#dfe6e9;
+                            padding:5px 10px;
+                            border-radius:20px;">
+                        @item.Status
+                    </span>
+                </td>
+
+                <td>
+                    <a class="btn"
+                       href="/Admin/UpdateStatus/@item.OrderID">
+                        Güncelle
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>

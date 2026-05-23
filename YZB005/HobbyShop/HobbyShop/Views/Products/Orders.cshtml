@@ -1,0 +1,26 @@
+﻿@model List<HobbyShop.Models.Order>
+
+<h2>Sipariş Geçmişim 📦</h2>
+
+<div class="page-box">
+
+    <table class="custom-table">
+
+        <tr>
+            <th>Sipariş No</th>
+            <th>Tarih</th>
+            <th>Toplam</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>#@item.OrderID</td>
+                <td>@item.OrderDate</td>
+                <td>@item.TotalPrice ₺</td>
+            </tr>
+        }
+
+    </table>
+
+</div>

@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\admin\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\admin\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\products\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\products\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\products\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\products\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\products\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\products\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|c:\\users\\syagm\\desktop\\yzb005\\hobbyshop\\hobbyshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B0E5BF3-A784-4ED3-9014-BD1DF82A17BA}|HobbyShop\\HobbyShop.csproj|solutionrelative:hobbyshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Admin\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\AddCategory.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Admin\\AddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T21:02:36.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\Categories.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Admin\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\Categories.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Admin\\Categories.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T21:01:49.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T23:22:46.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T18:18:35.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HobbyShop\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T18:16:08.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\Category.cs",
+              "RelativeToolTip": "HobbyShop\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:15:37.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAiwMAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T22:30:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Admin\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Admin\\EditProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T17:26:01.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Admin\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Admin\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T17:10:28.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "HobbyShop\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAIAwwAoBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:06:48.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Orders.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Products\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Orders.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Products\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T17:01:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\Order.cs",
+              "RelativeToolTip": "HobbyShop\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:58:51.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T07:39:34.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Products\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\OrderSuccess.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Products\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T22:58:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Cart.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Products\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Cart.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Products\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T22:26:56.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\CartItems.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Models\\CartItems.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\CartItems.cs",
+              "RelativeToolTip": "HobbyShop\\Models\\CartItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:06:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T20:00:01.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T20:20:50.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HobbyShop\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:18:25.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Models\\Product.cs",
+              "RelativeToolTip": "HobbyShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:11:10.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Program.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Program.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Program.cs",
+              "RelativeToolTip": "HobbyShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:50:38.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HobbyShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HobbyShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:23:10.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HobbyShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HobbyShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:56:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\appsettings.json",
+              "RelativeDocumentMoniker": "HobbyShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\syagm\\Desktop\\YZB005\\HobbyShop\\HobbyShop\\appsettings.json",
+              "RelativeToolTip": "HobbyShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T20:12:16.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

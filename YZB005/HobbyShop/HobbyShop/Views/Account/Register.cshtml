@@ -1,0 +1,22 @@
+﻿<h2>Kayıt Ol</h2>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<form method="post">
+    <label>Email:</label>
+    <input type="email" name="email" required style="padding:5px; margin-bottom:10px;" />
+
+    <br />
+
+    <label>Şifre:</label>
+    <input type="password" name="password" required style="padding:5px; margin-bottom:10px;" />
+
+    <br /><br />
+
+    <button type="submit">Kayıt Ol</button>
+</form>
+
+<a href="/Account/Login">Zaten hesabın var mı? Giriş Yap</a>

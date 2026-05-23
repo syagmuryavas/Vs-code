@@ -1,0 +1,62 @@
+﻿@model List<HobbyShop.Models.Product>
+
+<h2>Ürünler</h2>
+@if (TempData["Message"] != null)
+{
+    <div style="
+            background:#2ecc71;
+            color:white;
+            padding:10px;
+            border-radius:8px;
+            margin-bottom:15px;">
+
+        @TempData["Message"]
+    </div>
+}
+
+<a href="/Products/Cart">Sepete Git</a>
+
+<h3>Kategoriler</h3>
+
+<div class="category-bar">
+    <a class="category-item" href="/Products">Tümü</a>
+    <a class="category-item" href="/Products?category=Spor">Spor</a>
+    <a class="category-item" href="/Products?category=Sanat">Sanat</a>
+    <a class="category-item" href="/Products?category=Müzik">Müzik</a>
+    <a class="category-item" href="/Products?category=Zeka Oyunları">Zeka Oyunları</a>
+</div>
+<a href="/Products/Orders">Siparişlerim</a>
+<a href="/Admin/AddProduct">Ürün Ekle (Admin)</a>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+    @foreach (var item in Model)
+    {
+        <div class="card">
+
+            <img src="@item.ImageUrl"
+                 style="
+                 width:100%;
+                 height:180px;
+                 object-fit:cover;
+                 border-radius:10px;
+                 margin-bottom:10px;" />
+
+            <div class="card-title">@item.ProductName</div>
+
+            <div class="card-price">@item.Price ₺</div>
+
+            <div style="display:flex; justify-content:space-between; margin-top:10px;">
+                <a class="btn" href="/Products/Details/@item.ProductID">
+                    Detay
+                </a>
+
+                <a class="btn" href="/Products/AddToCart/@item.ProductID">
+                    Sepet
+                </a>
+            </div>
+
+        </div>
+    }
+
+</div>

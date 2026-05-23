@@ -1,0 +1,40 @@
+﻿@model List<HobbyShop.Models.CartItem>
+
+<h2>Sepetim 🛒</h2>
+
+@if (Model.Count == 0)
+{
+    <p>Sepetiniz boş.</p>
+}
+else
+{
+    <div style="background:white; padding:20px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+
+        <table style="width:100%;">
+            <tr>
+                <th>Ürün</th>
+                <th>Fiyat</th>
+                <th>Adet</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Price ₺</td>
+                    <td>@item.Quantity</td>
+                </tr>
+            }
+        </table>
+
+        <hr />
+
+        <h3>Toplam: @ViewBag.Total ₺</h3>
+
+        <div style="margin-top:15px;">
+            <a class="btn" href="/Products">Alışverişe Devam Et</a>
+            <a class="btn" href="/Products/Checkout">Siparişi Tamamla</a>
+        </div>
+
+    </div>
+}

@@ -1,0 +1,42 @@
+﻿@model HobbyShop.Models.Product
+
+<h2>Ürün Güncelle</h2>
+
+<form method="post">
+    <input type="hidden" name="ProductID" value="@Model.ProductID" required style="padding:5px; margin-bottom:10px;" />
+
+    <label>Ürün Adı:</label>
+    <input type="text" name="ProductName" value="@Model.ProductName" required style="padding:5px; margin-bottom:10px;" />
+
+    <br />
+
+    <label>Açıklama:</label>
+    <input type="text" name="Description" value="@Model.Description" required style="padding:5px; margin-bottom:10px;" />
+
+    <br />
+
+    <label>Fiyat:</label>
+    <input type="number" step="0.01" name="Price" value="@Model.Price" required style="padding:5px; margin-bottom:10px;" />
+
+    <br />
+
+    <label>Stok:</label>
+    <input type="number" name="Stock" value="@Model.Stock" required style="padding:5px; margin-bottom:10px;" />
+
+    <br />
+
+    <label>Kategori ID:</label>
+    <select name="CategoryID" style="padding:5px; margin-bottom:10px;">
+        @foreach (var cat in ViewBag.Categories)
+        {
+            <option value="@cat.CategoryID"
+                    selected="@(cat.CategoryID == Model.CategoryID ? "selected" : null)">
+                @cat.CategoryName
+            </option>
+        }
+    </select>
+
+    <br /><br />
+
+    <button type="submit">Güncelle</button>
+</form>

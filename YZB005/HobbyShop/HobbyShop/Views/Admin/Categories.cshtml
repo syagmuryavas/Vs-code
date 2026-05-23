@@ -1,0 +1,49 @@
+﻿@model List<HobbyShop.Models.Category>
+
+<h2>Kategoriler 📂</h2>
+
+<div class="page-box">
+
+    <div style="display:flex; gap:10px; margin-bottom:20px;">
+
+        <form method="post" action="/Admin/AddCategory">
+
+            <input type="text"
+                   name="categoryName"
+                   placeholder="Kategori adı"
+                   style="padding:10px; border-radius:8px; border:1px solid #ccc;" />
+
+            <button class="btn" type="submit">
+                Ekle
+            </button>
+
+        </form>
+
+    </div>
+
+    <table class="custom-table">
+
+        <tr>
+            <th>ID</th>
+            <th>Kategori</th>
+            <th>İşlem</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CategoryID</td>
+                <td>@item.CategoryName</td>
+
+                <td>
+                    <a class="btn"
+                       href="/Admin/DeleteCategory/@item.CategoryID">
+                        Sil
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>
